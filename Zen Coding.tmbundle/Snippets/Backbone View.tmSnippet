@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>var ${1:NewNameView} = Backbone.View.extend({
+  tagName: "section",
+  id: "${2:default value}",
+  
+  events:{
+    ${3:"click #link": "functionName"}
+  },
+  
+  initialize: function(){
+    
+  },
+  
+  render: function(){
+    $4
+    return this;
+  }
+});</string>
+	<key>name</key>
+	<string>Backbone View</string>
+	<key>tabTrigger</key>
+	<string>view</string>
+	<key>uuid</key>
+	<string>FE218983-B5A0-4A12-AAAE-3091916B827A</string>
+</dict>
+</plist>

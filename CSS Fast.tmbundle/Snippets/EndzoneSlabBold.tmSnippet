@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>font-family: EndzoneSlabBold;</string>
+	<key>name</key>
+	<string>EndzoneSlabBold</string>
+	<key>tabTrigger</key>
+	<string>ffeslb</string>
+	<key>uuid</key>
+	<string>33503895-F743-47E4-A11F-25110F833EF7</string>
+</dict>
+</plist>

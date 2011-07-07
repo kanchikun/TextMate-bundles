@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>changed</key>
+	<dict>
+		<key>ordering</key>
+		<array>
+			<string>0255DAAD-50B7-44BD-8649-D27C81A0E670</string>
+			<string>46BE01DD-520F-4963-861D-3CCE0ED3AA05</string>
+			<string>EA343BB7-8778-4BE1-AFDD-77EFDC7E310A</string>
+			<string>A4934206-6154-4740-AE45-3953E032965B</string>
+			<string>9D4F80BF-CE09-4DAB-83D4-C2F8BA1880CC</string>
+			<string>5E294223-8D9A-4F77-B034-902C83BC9213</string>
+			<string>1B24FAB3-BCC6-4D2F-B56D-98DAB60AB5C9</string>
+			<string>E869644C-1662-4B88-987D-331350AF5E20</string>
+			<string>FA6C4909-0813-4FE3-91E6-F6DC02632264</string>
+			<string>BF9DF4A3-2385-4ABA-A98C-FF04928F7142</string>
+			<string>BFB4A367-A703-4D4E-BE6C-9B08903B742F</string>
+			<string>FA99639C-018F-4CE1-AD64-2A5AC6FDCD52</string>
+			<string>C16E1013-661A-4A44-9A55-0743875DAD3D</string>
+			<string>C126BB19-A509-46E1-9365-F46EE53AF765</string>
+			<string>FDE927E3-C662-4C9F-9C9F-CCEF21CEC70A</string>
+			<string>59875DE0-1474-4E6A-80BD-CDA995FF43D9</string>
+			<string>95CC52DF-AF17-49A7-B5E6-0DAAA4AED2DA</string>
+			<string>DCFA699C-7B4B-4F85-B40E-E252B213A3E0</string>
+			<string>23EE9FC1-7817-44CD-9475-997449DD4D1F</string>
+			<string>E6E93E3F-7E7C-40C2-9D94-0E1C4616B80B</string>
+			<string>4FA3226F-7B53-4B4B-B3A3-EE82D11A1926</string>
+			<string>22BD09D9-5CAE-41FB-B00D-09E00E49A5B2</string>
+			<string>8D8EC659-D662-4637-BDE9-D2F8CF4C924E</string>
+			<string>58A75637-79BD-4F35-80B2-0E213BAF1E2A</string>
+			<string>421E1590-D2BF-4595-9008-47A384FE1560</string>
+			<string>47A592AF-C4E4-43D1-854C-30636FD9AB62</string>
+			<string>96BA926E-C667-4E66-9BFC-9AAB77A7F602</string>
+			<string>0117E316-6066-4E74-8F59-BDE07E07B02F</string>
+			<string>8F41C281-F197-4295-843D-2C18A91E2C8F</string>
+			<string>98D727C1-F9FD-44F3-972C-7D1DAF7A7519</string>
+			<string>177B3534-9E66-4A4D-8A2F-DE2D486DC0B3</string>
+			<string>A5C42CCA-FD63-4B84-8BCC-92E1F166EAD6</string>
+			<string>D6ECEEDC-0FB1-4944-ADAA-2905899C6CC9</string>
+			<string>D598B319-95B3-4D36-B3F2-E1B67C280990</string>
+			<string>57E7B7DE-6DF7-4242-89F2-A71FEE3A51D5</string>
+			<string>6B434670-03DB-4B28-92A7-173AB0C7DEAF</string>
+			<string>0088A597-3CF4-4563-B13B-030293A55586</string>
+			<string>64429F0D-D004-4174-B76D-7854854F6083</string>
+			<string>94FDC501-58CD-420C-BAAD-7277A6971CAF</string>
+			<string>C00B426C-FA61-4BA1-B7C6-E5720CDEEF57</string>
+			<string>4ACAC55D-E272-4413-9F8E-1123D932457C</string>
+			<string>2DD34FB2-565D-470E-BBBD-61403D787E1A</string>
+			<string>27BD3227-8E4C-4A12-885C-D529115A4EF4</string>
+		</array>
+	</dict>
+	<key>deleted</key>
+	<array/>
+	<key>isDelta</key>
+	<true/>
+	<key>uuid</key>
+	<string>D8C2A792-0BEB-43B7-988E-BB22A1EECED2</string>
+</dict>
+</plist>

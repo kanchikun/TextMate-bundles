@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>text-shadow: ${1:1}px ${2:1}px ${3:0} ${4:rgb(250,250,250)};</string>
+	<key>name</key>
+	<string>Text-Shadow</string>
+	<key>tabTrigger</key>
+	<string>ts</string>
+	<key>uuid</key>
+	<string>E1E0F85A-94B6-404D-B75E-94CB3A1B32BF</string>
+</dict>
+</plist>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>changed</key>
+	<dict>
+		<key>content</key>
+		<string>text-shadow: ${1:-2px} ${2:2px} ${3:0} ${4:#ccc}$0</string>
+		<key>name</key>
+		<string>text-shadow</string>
+	</dict>
+	<key>deleted</key>
+	<array/>
+	<key>isDelta</key>
+	<true/>
+	<key>uuid</key>
+	<string>54917210-9B1A-4049-B439-387BAB9A5887</string>
+</dict>
+</plist>

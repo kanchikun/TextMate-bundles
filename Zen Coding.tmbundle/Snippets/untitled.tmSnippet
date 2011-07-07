@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>var ${1:visualizer} = ich["${2:visualizer}"]();
+\$(this.el).html(${3:visualizer});</string>
+	<key>name</key>
+	<string>ich</string>
+	<key>tabTrigger</key>
+	<string>ich</string>
+	<key>uuid</key>
+	<string>2E817C31-F92B-4388-9127-877322555A63</string>
+</dict>
+</plist>

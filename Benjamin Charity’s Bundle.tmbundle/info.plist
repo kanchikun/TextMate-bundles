@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>name</key>
+	<string>Benjamin Charity’s Bundle</string>
+	<key>ordering</key>
+	<array>
+		<string>81E235E9-0052-4EEF-BF10-9D81AD8E49C9</string>
+		<string>E1E0F85A-94B6-404D-B75E-94CB3A1B32BF</string>
+		<string>8D0B9DDA-9E09-4B9C-B314-95A78D3E296F</string>
+		<string>9013B2FA-674E-409D-84A1-0805315C258B</string>
+	</array>
+	<key>uuid</key>
+	<string>B874B7B4-BD9E-4190-9EF3-D6954F952A26</string>
+</dict>
+</plist>

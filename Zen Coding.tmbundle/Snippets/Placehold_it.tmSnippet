@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>http://placehold.it/${1:100x150}</string>
+	<key>name</key>
+	<string>Placehold.it</string>
+	<key>tabTrigger</key>
+	<string>image</string>
+	<key>uuid</key>
+	<string>11E54E28-FEBD-4F8F-A47C-4FF53EA2E3B8</string>
+</dict>
+</plist>

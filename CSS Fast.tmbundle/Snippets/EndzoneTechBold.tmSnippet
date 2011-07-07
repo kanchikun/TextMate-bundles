@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>font-family: EndzoneTechMedium;</string>
+	<key>name</key>
+	<string>EndzoneTechMedium</string>
+	<key>tabTrigger</key>
+	<string>ffetm</string>
+	<key>uuid</key>
+	<string>CED6896B-6D74-4D7B-8EDA-4346765FA831</string>
+</dict>
+</plist>
