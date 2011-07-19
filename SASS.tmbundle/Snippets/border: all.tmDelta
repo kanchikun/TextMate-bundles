@@ -4,18 +4,14 @@
 <dict>
 	<key>changed</key>
 	<dict>
-		<key>content</key>
-		<string>position: ${1:absolute}$0</string>
-		<key>name</key>
-		<string>position: absolute</string>
 		<key>tabTrigger</key>
-		<string>pos</string>
+		<string>ba</string>
 	</dict>
 	<key>deleted</key>
 	<array/>
 	<key>isDelta</key>
 	<true/>
 	<key>uuid</key>
-	<string>672E6F71-8176-40B0-BC52-01DCCF3470CF</string>
+	<string>DB72B1B4-3265-4388-B85F-6E77F95C89BD</string>
 </dict>
 </plist>
